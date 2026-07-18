@@ -1,6 +1,6 @@
 <div align="center">
 
-  # Hi 👋, I'm ... bleh
+  # Hi 👋, I'm Noxblee
 
   I go to high school (still) :/
 
