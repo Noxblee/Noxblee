@@ -54,5 +54,5 @@
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trzynasty-0&theme=black-ice" alt="trzynasty-0"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trzynasty-0&theme=black-ice" alt="noxblee"/>
 </p>
